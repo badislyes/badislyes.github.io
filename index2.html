@@ -76,7 +76,7 @@ alert(err.message);
    
  }
  function listf(){ var listoffiles='list';
-  blockstack.listFiles((filename)=>{listoffiles=listoffiles+filename;
+  blockstack.listFiles((filename)=>{listoffiles=listoffiles+'\n'+filename;
    //document.write(filename)
     document.getElementById("note").innerHTML=listoffiles                                
          return true}     )                                 
