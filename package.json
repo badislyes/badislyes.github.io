@@ -68,7 +68,7 @@
     "randombytes": "^2.1.0",
     "request": "^2.88.0",
     "ripemd160-min": "0.0.5",
-    "schema-inspector": "^1.6.8",
+    "schema-inspector": "^2.0.0",
     "sha.js": "^2.4.11",
     "tslib": "^1.10.0",
     "uuid": "^3.3.3",
